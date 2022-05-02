@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACTERS/static/css/main.201d970f.css",
+    "main.js": "/REACTERS/static/js/main.35c41685.js",
+    "index.html": "/REACTERS/index.html",
+    "main.201d970f.css.map": "/REACTERS/static/css/main.201d970f.css.map",
+    "main.35c41685.js.map": "/REACTERS/static/js/main.35c41685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201d970f.css",
+    "static/js/main.35c41685.js"
+  ]
+}
